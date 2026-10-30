@@ -1,0 +1,5 @@
+csv_analysis:
+  network: false
+  shell: false
+  secrets: false
+  dynamic_code: false
